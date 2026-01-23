@@ -7,4 +7,10 @@
 
 body {
     width: 512px;
+    background-color: #191D7b;
+    margin: 0 auto;
+}
+
+.banner {
+    width: 512px;
 }
