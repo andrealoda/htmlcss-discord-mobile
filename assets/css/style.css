@@ -42,3 +42,28 @@ body {
     text-align: center;
     margin-top: 1rem;
 }
+
+.buttons {
+    margin-top: 1rem;
+    font-family: DM Sans;
+    align-items: center;
+}
+
+#butt1 {
+    padding: 1rem 1rem;
+    border: 0;
+    border-radius: 1rem;
+    width: 352px;
+    font-size: large;
+}
+
+#butt2 {
+    margin-top: 1rem;
+    padding: 1rem 1rem;
+    border: 0;
+    border-radius: 1rem;
+    color: white;
+    background-color: #5865F2;
+    width: 352px;
+    font-size: large;
+}
