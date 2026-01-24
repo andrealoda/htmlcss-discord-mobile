@@ -78,7 +78,7 @@ h2 {
     text-align: left;
     background-color: #5D64D1;
     border: 0;
-    border-radius: 1rem;
+    border-radius: 2rem;
 }
 
 .box-title {
@@ -93,14 +93,7 @@ h2 {
     margin-bottom: 1rem;
 }
 
-.box-img {
-    margin-top: 1rem;
-    border: 0;
-    border-radius: 2rem;
-    width: 352px;
-}
-
-#video-1 {
+.video {
     width: 352px;
     border:0;
     border-radius: 2rem;
