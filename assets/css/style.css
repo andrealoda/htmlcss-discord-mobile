@@ -9,7 +9,7 @@
 }
 
 body {
-    /* width: 512px; */
+    width: 512px;
     background-color: #191D7b;
     margin: 0 auto;
 }
@@ -19,7 +19,7 @@ h2 {
 }
 
 .banner {
-    width: 512px;
+    width: 100%;
 }
 
 #main {
