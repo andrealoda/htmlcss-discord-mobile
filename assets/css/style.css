@@ -90,6 +90,7 @@ h2 {
 .box-p {
     font-family: DM Sans;
     line-height: 1.5rem;
+    margin-bottom: 1rem;
 }
 
 .box-img {
@@ -97,4 +98,10 @@ h2 {
     border: 0;
     border-radius: 2rem;
     width: 352px;
+}
+
+#video-1 {
+    width: 352px;
+    border:0;
+    border-radius: 2rem;
 }
