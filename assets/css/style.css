@@ -76,7 +76,7 @@ h2 {
     color: white;
     line-height: 35px;
     text-align: left;
-    background-color: #5D64D1;
+    background: linear-gradient(#32368F, #5460E8);
     border: 0;
     border-radius: 2rem;
 }
