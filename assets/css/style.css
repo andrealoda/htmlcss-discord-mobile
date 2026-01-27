@@ -40,7 +40,7 @@ h2 {
 
 .subtitle {
     font-family: DM Sans;
-    font-size: 1.1rem;
+    font-size: 1rem;
     color: white;
     text-align: center;
     margin-top: 1rem;
@@ -72,7 +72,8 @@ h2 {
 }
 
 .box {
-    padding: 2rem;
+    padding: 4rem 2rem 2rem;
+    margin-top: 2rem;
     margin-bottom: 3rem;
     color: white;
     line-height: 35px;
@@ -80,6 +81,7 @@ h2 {
     background: linear-gradient(#32368F, #5460E8);
     border: 0;
     border-radius: 2rem;
+    position: relative;
 }
 
 .box-title {
@@ -99,4 +101,11 @@ h2 {
     width: 100%;
     border:0;
     border-radius: 2rem;
+}
+
+.icon {
+    position: absolute;
+    top: -8%;
+    left: 15%;
+    width: 25%;
 }
