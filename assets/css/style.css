@@ -116,7 +116,8 @@ h2 {
 
 .icon {
     position: absolute;
-    top: -8%;
+    top: 0;
+    transform: translateY(-50%);
     left: 15%;
     width: 25%;
 }
